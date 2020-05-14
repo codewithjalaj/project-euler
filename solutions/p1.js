@@ -10,7 +10,6 @@ multiplesOf3and5(1000);
 
 // Test Cases
 
-// multiplesOf3and5(10) should return a number.
 // multiplesOf3and5(49) should return 543.
 // multiplesOf3and5(1000) should return 233168.
 // multiplesOf3and5(8456) should return 16687353.
